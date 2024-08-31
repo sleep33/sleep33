@@ -34,12 +34,16 @@ Comment: As a Junior Penetration Tester, I merge cybersecurity skills with pract
 <h2>🚀 Projects & Tools</h2>
 <p>Here are some of the cool things I’ve been working on:</p>
 <ul>
-  <li>Web Security Toolkit: A collection of scripts and tools for enhancing web security and conducting penetration tests.</li>
+  <li> <link>https://github.com/sleep33/Web-Security-Toolkit/tree/main)[Web Security Toolkit](: A collection of scripts and tools for enhancing web security and conducting penetration tests.</li>
   <li>UI/UX Design for Security: Exploring how design principles can improve the effectiveness of security tools and user interfaces.</li>
   <li>Monitoring Dashboard: A project for real-time monitoring and alerts using various cyber monitoring tools.</li>
 </ul>
 
 <h2 align="left">🛠️ Tech Stack</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleep33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo" />
