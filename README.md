@@ -57,7 +57,4 @@ Comment: As a Junior Penetration Tester, I merge cybersecurity skills with pract
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" />
 </div>
 
-<img src="https://raw.githubusercontent.com/sleep33/sleep33/output/snake.svg" alt="Snake animation" />
-
-###
 ---
