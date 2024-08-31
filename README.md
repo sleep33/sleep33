@@ -24,7 +24,7 @@ Comment: As a Junior Penetration Tester, I merge cybersecurity skills with pract
 
 <h2>🔧 Skills & Expertise</h2>
 <ul>
-  <li>🌐 Web Management:Handling DNS with Cloudflare, hosting with Cloudways, and servers with DigitalOcean.</li>
+  <li>🌐 Web Management: Handling DNS with Cloudflare, hosting with Cloudways, and servers with DigitalOcean.</li>
   <li>🔒 Cybersecurity: Diving deep into ethical hacking with various tools in Kali Linux.</li>
   <li>📊 Monitoring: Using monitoring tools to keep an eye on system health and security.</li>
   <li>💻 OS Experience: Proficient in both Linux and Windows environments.</li>
