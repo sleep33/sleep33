@@ -12,14 +12,12 @@
 
 <img src="https://who.is/static/images/whois-logo.svg" height="30" alt="whois logo"/>
 
-
 ```html
 OrgName:Yuval
 OrgId: sleep33
 Comment: a tech enthusiast with hands-on experience in web management and a growing expertise in penetration testing.
 Comment: As a Junior Penetration Tester, I merge cybersecurity skills with practical web infrastructure knowledge to secure and optimize digital spaces.
 ```
-
 
 <h2>🔧 Skills & Expertise</h2>
 <ul>
@@ -33,12 +31,14 @@ Comment: As a Junior Penetration Tester, I merge cybersecurity skills with pract
 <h2>🚀 Projects & Tools</h2>
 <p>Here are some of the cool things I’ve been working on:</p>
 <ul>
-  <li>https://github.com/sleep33/Web-Security-Toolkit/tree/main: A collection of scripts and tools for enhancing web security and conducting penetration tests.</li>
+  <li><a href="https://github.com/sleep33/Web-Security-Toolkit/tree/main">Web-Security-Toolkit</a>: A collection of scripts and tools for enhancing web security and conducting penetration tests.</li>
+  <li><a href="https://github.com/sleep33/HackN-Metal">HackN'Metal</a>: A pentesting tool with AI-driven recommendations for smart vulnerability scanning and exploitation.</li>
+</ul>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleep33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleep33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph" />
 </div>
 
 <div align="left">
@@ -56,5 +56,3 @@ Comment: As a Junior Penetration Tester, I merge cybersecurity skills with pract
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" />
 </div>
-
----
