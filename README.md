@@ -2,7 +2,7 @@
 <h1 align="left">
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"/>
-    Hey, I'm Yuval!
+    Hey, I'm UV!
   </div>
 </h1>
 
