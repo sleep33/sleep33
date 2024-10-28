@@ -2,7 +2,7 @@
 <h1 align="left">
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"/>
-    Hey, I'm UV!
+    Hey, I'm Sleep!
   </div>
 </h1>
 
@@ -18,16 +18,6 @@ OrgId: sleep33
 Comment: a tech enthusiast with hands-on experience in web management and a growing expertise in penetration testing.
 Comment: As a Junior Penetration Tester, I merge cybersecurity skills with practical web infrastructure knowledge to secure and optimize digital spaces.
 ```
-
-<h2>🔧 Skills & Expertise</h2>
-<ul>
-  <li>🌐 Web Management: Handling DNS with Cloudflare, hosting with Cloudways, and servers with DigitalOcean.</li>
-  <li>🔒 Cybersecurity: Diving deep into ethical hacking with various tools in Kali Linux.</li>
-  <li>📊 Monitoring: Using monitoring tools to keep an eye on system health and security.</li>
-  <li>💻 OS Experience: Proficient in both Linux and Windows environments.</li>
-  <li>🎨 UI/UX Design: Enhancing penetration testing and security assessments with design principles for a user-friendly approach.</li>
-</ul>
-
 <h2>🚀 Projects & Tools</h2>
 <p>Here are some of the cool things I’ve been working on:</p>
 <ul>
