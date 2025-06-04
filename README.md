@@ -10,8 +10,6 @@
 
 ![SleepCoverr](https://github.com/user-attachments/assets/037a1692-b7a6-4f05-abdf-11b5f4941285)
 
-<img src="https://who.is/static/images/whois-logo.svg" height="30" alt="whois logo"/>
-
 ```html
 OrgName:UV
 OrgId: sleep33
