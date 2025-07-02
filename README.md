@@ -14,7 +14,6 @@
 OrgName:UV
 OrgId: sleep33
 Comment: a tech enthusiast with hands-on experience in web management and a growing expertise in penetration testing.
-Comment: As a Junior Penetration Tester, I merge cybersecurity skills with practical web infrastructure knowledge to secure and optimize digital spaces.
 ```
 <h2>🚀 Projects & Tools</h2>
 <p>Here are some of the cool things I’ve been working on:</p>
